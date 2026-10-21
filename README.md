@@ -16,7 +16,7 @@
   <br><br>
 
   <!-- ===================== TYPING ===================== -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C%20eu%20sou%20o%20jefimdev%20%F0%9F%91%8B;Desenvolvedor%20JavaScript%20%26%20Node.js;Bots%20para%20Discord%20%C2%B7%20APIs%20%C2%B7%20Automa%C3%A7%C3%A3o;Construindo%20projetos%20%C3%BA%20pr%C3%B3pria%20conta" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C%20eu%20sou%20o%20jefimdev%20%F0%9F%91%8B;Desenvolvedor%20JavaScript%20%26%20Node.js;Bots%20para%20Discord%20%C2%B7%20APIs%20%C2%B7%20Automa%C3%A7%C3%A3o;Vibe%20coder%20%F0%9F%A4%96%20%E2%80%94%20construindo%20com%20IA%20no%20fluxo%20de%20trabalho" alt="Typing SVG" />
 
   <br><br>
 
@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/github/created-at/jefimdev?label=Desde&style=for-the-badge&color=1f6feb" alt="Desde" />
   <img src="https://img.shields.io/github/commit-activity/y/jefimdev?label=Commits%2Fano&style=for-the-badge&color=1f6feb&logo=github" alt="Commits por ano" />
   <img src="https://img.shields.io/github/last-commit/jefimdev?label=%C3%BAltimo%20Commit&style=for-the-badge&color=1f6feb&logo=github" alt="Último commit" />
+  <img src="https://img.shields.io/badge/Vibe%20Coder-1f6feb?style=for-the-badge&logo=claude&logoColor=white" alt="Vibe Coder" />
   <img src="https://img.shields.io/badge/Plataforma-Windows-1f6feb?style=for-the-badge&logo=windows" alt="Windows" />
   <img src="https://img.shields.io/badge/Localizado-Brasil-1f6feb?style=for-the-badge&logo=github" alt="Brasil" />
 
@@ -36,6 +37,7 @@
   <!-- ===================== NAV ===================== -->
   <a href="#sobre-mim">Sobre</a> •
   <a href="#stack--ferramentas">Stack</a> •
+  <a href="#vibecoding">Vibecoding</a> •
   <a href="#github-stats">Stats</a> •
   <a href="#projetos">Projetos</a> •
   <a href="#contato">Contato</a>
@@ -73,6 +75,7 @@ Desenvolvedor focado em **JavaScript** e **Node.js**, criando bots para Discord,
 - 💬 Adoro trocar ideias sobre JavaScript, Node.js e desenvolvimento web
 - ⚡ Fã de código limpo, documentado e fácil de manter
 - 🚀 VS Code, Git e terminal no dia a dia
+- 🤖 **Vibe coder** — uso IA como parceira de escrita para iterar mais rápido, mas **reviso, testo e refino cada linha** antes de commitar
 
 <br>
 
@@ -100,8 +103,60 @@ Desenvolvedor focado em **JavaScript** e **Node.js**, criando bots para Discord,
 | **Back-end** | Node.js, Express, APIs REST |
 | **Bots & Scripts** | Discord.js, Python, Automação |
 | **Banco de Dados** | SQL / PostgreSQL, MongoDB |
+| **IA & Vibecoding** | Claude Code, ChatGPT, Cursor, Copilot, Gemini, Ollama |
 | **Infra & Versionamento** | Git, GitHub, Docker, Deploy, Vercel |
 | **Ambiente** | Windows, VS Code, Linux (terminal) |
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">✨ Vibecoding</h2>
+
+<div align="center">
+
+### Ferramentas de IA no fluxo de trabalho
+
+<img src="https://skillicons.dev/icons?i=chatgpt,claude,copilot,cursor,gemini,openai,ollama,vscode" alt="Ferramentas de IA" />
+
+<br><br>
+
+### O que é
+
+**Vibe coding** é programar guiado por intenção em vez de instruções linha a linha:
+eu descrevo o *o que* quero, a IA gera o *como*, e eu fico com a parte difícil —
+**decidir a arquitetura, revisar o código e garantir que funciona**.
+
+Na prática, é um ciclo de 6 passos que roda comigo em todo projeto:
+
+</div>
+
+| # | Etapa | O que acontece |
+|:--|:--|:--|
+| 1 | 💡 **Idear** | Defino o problema e o que "pronto" significa |
+| 2 | 📐 **Contextualizar** | Passo stack, restrições e convenções do projeto |
+| 3 | 🤖 **Gerar** | A IA produz o primeiro rascunho da solução |
+| 4 | 🔍 **Revisar** | Leio tudo: lógica, segurança, edge cases, legibilidade |
+| 5 | 🧪 **Validar** | Testo, rodo o lint e corrijo o que quebrou |
+| 6 | 📝 **Documentar** | Explico o *porquê* das decisões no commit |
+
+<br>
+
+<div align="center">
+
+| Princípio | Na prática |
+|:--|:--|
+| 🧠 **Contexto primeiro** | Prompt vago gera código genérico — eu descrevo o projeto inteiro |
+| 🔐 **Segurança sempre** | Reviso auth, input do usuário, secrets e dependências manualmente |
+| 🧩 **Pequenos passos** | Peço uma funcionalidade por vez, valido e sigo — nunca o sistema inteiro de uma vez |
+| 📖 **Eu sou o autor** | A IA propõe, eu assumo a responsabilidade pelo que vai pro repo |
+| 📚 **Aprendizado contínuo** | Cada padrão gerado que eu não conhecia vira estudo e vira conceito meu |
+
+<br>
+
+> *"A IA é o copiloto, não o piloto. Eu assumo o teclado quando o código precisa ficar certo."*
 
 </div>
 
@@ -158,10 +213,6 @@ Desenvolvedor focado em **JavaScript** e **Node.js**, criando bots para Discord,
 
 <div align="center">
 
-<a href="https://github.com/jefimdev/registro-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jefimdev&repo=registro-bot&hide_border=true&theme=radical&show_owner=true" alt="registro-bot" />
-</a>
-
 <a href="https://github.com/jefimdev/jefimdev">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jefimdev&repo=jefimdev&hide_border=true&theme=radical&show_owner=true" alt="jefimdev" />
 </a>
@@ -170,8 +221,13 @@ Desenvolvedor focado em **JavaScript** e **Node.js**, criando bots para Discord,
 
 ### 📌 Em destaque
 
-- **registro-bot** — Bot em JavaScript para automação de registros e tarefas no Discord.
 - **jefimdev** — Repositório de configuração do meu perfil no GitHub (onde você está lendo isso).
+- **Bot de Discord em JavaScript** — projeto de automação e registro com Node.js.
+- **Projetos em Python** — scripts de automação e integração com a API do Discord.
+
+<br>
+
+📂 [Ver todos os repositórios](https://github.com/jefimdev?tab=repositories)
 
 </div>
 
@@ -259,7 +315,9 @@ NOTAS PARA MANUTENÇÃO
   e github-profile-summary-cards.
 • Os títulos usam <h2 align="center"> para centralizar; as
   âncoras do menu (#sobre-mim, #stack--ferramentas,
-  #github-stats, #projetos, #contato) seguem o padrão do
-  GitHub. Se alguma não funcionar, ajuste manualmente.
+  #vibecoding, #github-stats, #projetos, #contato) seguem o
+  padrão do GitHub. Se alguma não funcionar, ajuste manualmente.
+• A seção "✨ Vibecoding" descreve o método de trabalho;
+  ajuste as ferramentas listadas conforme seu uso real.
 =============================================================
 -->
