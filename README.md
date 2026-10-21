@@ -6,31 +6,28 @@
 <div align="center">
 
   <!-- ===================== HEADER ===================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=200&section=header&text=jefimdev&fontSize=60&fontColor=F0F6FC&animation=fadeIn&fontAlignY=40&desc=JavaScript%20%7C%20Node.js%20%7C%20Bots%20para%20Discord&descAlignY=60&descSize=14" alt="jefimdev" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,35:0066FF,70:7020FF,100:F000FF&height=200&section=header&text=jefimdev&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=JavaScript%20%7C%20Node.js%20%7C%20Bots%20para%20Discord&descAlignY=60&descSize=14" alt="jefimdev" />
 
   <br>
 
   <!-- ===================== AVATAR ===================== -->
-  <img src="https://github.com/jefimdev.png?size=140" alt="Avatar do jefimdev" width="140" style="border-radius:50%;border:3px solid #1F6FEB;box-shadow:0 0 25px rgba(31,111,235,.45);" />
+  <img src="https://github.com/jefimdev.png?size=140" alt="Avatar do jefimdev" width="140" style="border-radius:50%;border:3px solid #0066FF;box-shadow:0 0 25px rgba(112,32,255,.55);" />
 
   <br><br>
 
   <!-- ===================== TYPING ===================== -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C%20eu%20sou%20o%20jefimdev%20%F0%9F%91%8B;Desenvolvedor%20JavaScript%20%26%20Node.js;Bots%20para%20Discord%20%C2%B7%20APIs%20%C2%B7%20Automa%C3%A7%C3%A3o;Vibe%20coder%20%F0%9F%A4%96%20%E2%80%94%20construindo%20com%20IA%20no%20fluxo%20de%20trabalho" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&background=0D1117&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C%20eu%20sou%20o%20jefimdev%20%F0%9F%91%8B;Desenvolvedor%20JavaScript%20%26%20Node.js;Bots%20para%20Discord%20%C2%B7%20APIs%20%C2%B7%20Automa%C3%A7%C3%A3o;Vibe%20coder%20%F0%9F%A4%96%20%E2%80%94%20construindo%20com%20IA%20no%20fluxo%20de%20trabalho" alt="Typing SVG" />
 
   <br><br>
 
   <!-- ===================== BADGES ===================== -->
-  <img src="https://img.shields.io/github/followers/jefimdev?label=Followers&style=for-the-badge&color=1f6feb&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/jefimdev?label=Stars&style=for-the-badge&color=1f6feb&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/github/repos/jefimdev?label=Repos&style=for-the-badge&color=1f6feb&logo=github" alt="Repos" />
-  <img src="https://img.shields.io/github/languages/top/jefimdev?label=Top%20Language&style=for-the-badge&color=1f6feb&logo=javascript" alt="Top Language" />
-  <img src="https://img.shields.io/github/created-at/jefimdev?label=Desde&style=for-the-badge&color=1f6feb" alt="Desde" />
-  <img src="https://img.shields.io/github/commit-activity/y/jefimdev?label=Commits%2Fano&style=for-the-badge&color=1f6feb&logo=github" alt="Commits por ano" />
-  <img src="https://img.shields.io/github/last-commit/jefimdev?label=%C3%BAltimo%20Commit&style=for-the-badge&color=1f6feb&logo=github" alt="Último commit" />
-  <img src="https://img.shields.io/badge/Vibe%20Coder-1f6feb?style=for-the-badge&logo=claude&logoColor=white" alt="Vibe Coder" />
-  <img src="https://img.shields.io/badge/Plataforma-Windows-1f6feb?style=for-the-badge&logo=windows" alt="Windows" />
-  <img src="https://img.shields.io/badge/Localizado-Brasil-1f6feb?style=for-the-badge&logo=github" alt="Brasil" />
+  <img src="https://img.shields.io/github/followers/jefimdev?label=Followers&style=for-the-badge&color=0066FF&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/jefimdev?label=Stars&style=for-the-badge&color=F000FF&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/Desde%202022-0066FF?style=for-the-badge" alt="Desde 2022" />
+  <img src="https://img.shields.io/github/last-commit/jefimdev/jefimdev?label=%C3%BAltimo%20Commit&style=for-the-badge&color=7020FF&logo=github" alt="Último commit" />
+  <img src="https://img.shields.io/badge/Vibe%20Coder-00E5FF?style=for-the-badge&logo=claude&logoColor=black" alt="Vibe Coder" />
+  <img src="https://img.shields.io/badge/Plataforma-Windows-7020FF?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Localizado-Brasil-F000FF?style=for-the-badge&logo=github&logoColor=white" alt="Brasil" />
 
   <br><br>
 
@@ -168,19 +165,19 @@ Na prática, é um ciclo de 6 passos que roda comigo em todo projeto:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jefimdev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Jefimdev's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=jefimdev&show_icons=true&title_color=00E5FF&text_color=F0F6FC&icon_color=0066FF&bg_color=0D1117&border_color=7020FF&ring_color=0066FF&include_all_commits=true&count_private=true&rank_icon=github" alt="Jefimdev's GitHub Stats" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefimdev&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=100" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefimdev&layout=compact&title_color=00E5FF&text_color=F0F6FC&bg_color=0D1117&border_color=7020FF&langs_count=8&card_width=100" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=jefimdev&theme=dark&hide_border=true" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=jefimdev&background=0D1117&border=7020FF&stroke=00E5FF&ring=F000FF&fire=F000FF&currStreakNum=00E5FF&sideNums=0066FF&sideLabels=F0F6FC&currStreakLabel=F0F6FC&dateRanges=F0F6FC" alt="Streak Stats" />
 
 <br><br>
 
-<img src="https://github-activity-graph.vercel.app/graph?username=jefimdev&theme=tokyo-night&hide_border=true&area=true&radius=6&days=90" alt="Activity Graph" />
+<img src="https://github-activity-graph.vercel.app/graph?username=jefimdev&hide_border=true&area=true&radius=6&days=90&line=0066FF&point=00E5FF&area_color=7020FF&bg_color=0D1117&color=7020FF" alt="Activity Graph" />
 
 </div>
 
@@ -192,7 +189,7 @@ Na prática, é um ciclo de 6 passos que roda comigo em todo projeto:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jefimdev&theme=dark" alt="Perfil do jefimdev no GitHub" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jefimdev&bg_color=0D1117&title_color=00E5FF&text_color=F0F6FC&icon_color=0066FF&border_color=7020FF" alt="Perfil do jefimdev no GitHub" />
 
 <br><br>
 
@@ -214,7 +211,7 @@ Na prática, é um ciclo de 6 passos que roda comigo em todo projeto:
 <div align="center">
 
 <a href="https://github.com/jefimdev/jefimdev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jefimdev&repo=jefimdev&hide_border=true&theme=radical&show_owner=true" alt="jefimdev" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jefimdev&repo=jefimdev&title_color=00E5FF&text_color=F0F6FC&icon_color=0066FF&bg_color=0D1117&border_color=7020FF&show_owner=true" alt="jefimdev" />
 </a>
 
 <br><br>
@@ -261,15 +258,15 @@ Na prática, é um ciclo de 6 passos que roda comigo em todo projeto:
 <!-- TROQUE PELOS SEUS DADOS REAIS -->
 
 <a href="https://github.com/jefimdev">
-  <img src="https://img.shields.io/badge/GitHub-jefimdev-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-jefimdev-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://discord.com/users/SEU_ID">
-  <img src="https://img.shields.io/badge/Discord-jefimdev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-jefimdev-7020FF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 
 <a href="mailto:SEU_EMAIL@EMAIL.COM">
-  <img src="https://img.shields.io/badge/E-mail-SEU_EMAIL-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  <img src="https://img.shields.io/badge/Email-SEU_EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" alt="E-mail" />
 </a>
 
 <br><br>
@@ -310,14 +307,32 @@ NOTAS PARA MANUTENÇÃO
 • O Contribution Snake exige o workflow em
   .github/workflows/snake.yml — use o modelo oficial:
   https://github.com/Platane/snk
-• Cards gerados por: github-readme-stats (stats + top-langs
-  + pin), streak-stats.demolab.com, github-activity-graph
-  e github-profile-summary-cards.
+
+PALETA (mesma da foto de perfil):
+  Ciano #00E5FF · Azul elétrico #0066FF
+  Roxo #7020FF · Magenta #F000FF
+  Fundo dos cards #0D1117 · Texto #F0F6FC
+
+• Banner: type=rect + color=0:00E5FF,35:0066FF,70:7020FF,100:F000FF
+  (type=rect preenche em opacidade total; type=waving usaria 0.4 e
+  ficaria lavado no fundo branco do GitHub). Texto branco.
+• Cards: title_color=00E5FF · text_color=F0F6FC · icon_color=0066FF
+  · bg_color=0D1117 · border_color=7020FF
+• Activity graph: line=0066FF · point=00E5FF · area_color=7020FF
+  · bg_color=0D1117 · color=7020FF
+  (atenção: "color" é a moldura, o fundo é "bg_color")
 • Os títulos usam <h2 align="center"> para centralizar; as
   âncoras do menu (#sobre-mim, #stack--ferramentas,
   #vibecoding, #github-stats, #projetos, #contato) seguem o
   padrão do GitHub. Se alguma não funcionar, ajuste manualmente.
 • A seção "✨ Vibecoding" descreve o método de trabalho;
   ajuste as ferramentas listadas conforme seu uso real.
+
+BADGES REMOVIDOS (endpoint descontinuado no shields.io):
+  github/repos, github/created-at, github/commit-activity,
+  github/languages/top (sem repo) e github/last-commit (sem
+  repo) devolvem o SVG "404: badge not found" com HTTP 200 —
+  o que faz a checagem por status code passar enganada.
+  Os que restam: followers, stars, last-commit/:user/:repo.
 =============================================================
 -->
