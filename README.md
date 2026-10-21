@@ -37,12 +37,7 @@
   <br><br>
 
   <!-- ===================== NAV ===================== -->
-  <a href="#about-me">About</a> •
-  <a href="#stack--tools">Stack</a> •
-  <a href="#vibecoding">Vibecoding</a> •
-  <a href="#github-stats">Stats</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#contact">Contact</a>
+  <a href="#about-me">About</a> &bull; <a href="#stack--tools">Stack</a> &bull; <a href="#vibecoding">Vibecoding</a> &bull; <a href="#github-stats">Stats</a> &bull; <a href="#projects">Projects</a> &bull; <a href="#contact">Contact</a>
 
 </div>
 
@@ -93,13 +88,13 @@ A developer focused on **JavaScript** and **Node.js**, building Discord bots, AP
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,sql,bash" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,postgresql,bash" alt="Languages" />
 
 <br><br>
 
 ### Tools &amp; Technologies
 
-<img src="https://skillicons.dev/icons?i=github,git,vscode,discord,docker,linux,figma,postgres,mongodb,express,api,vercel" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=github,git,vscode,discord,docker,linux,figma,postgres,mongodb,express,graphql,netlify" alt="Tools" />
 
 <br><br>
 
@@ -110,7 +105,7 @@ A developer focused on **JavaScript** and **Node.js**, building Discord bots, AP
 | **Bots & Scripts** | Discord.js, Python, Automation |
 | **Databases** | SQL / PostgreSQL, MongoDB |
 | **AI & Vibecoding** | Claude Code, ChatGPT, Cursor, Copilot, Gemini, Ollama |
-| **Infra & Versioning** | Git, GitHub, Docker, Deployment, Vercel |
+| **Infra & Versioning** | Git, GitHub, Docker, Deployment, Netlify |
 | **Environment** | Windows, VS Code, Linux (terminal) |
 
 </div>
@@ -125,7 +120,20 @@ A developer focused on **JavaScript** and **Node.js**, building Discord bots, AP
 
 ### AI in my workflow
 
-<img src="https://skillicons.dev/icons?i=chatgpt,claude,copilot,cursor,gemini,openai,ollama,vscode" alt="AI tools" />
+<p align="center">
+<img src="https://cdn.simpleicons.org/claude/00E5FF" alt="Claude" width="42" title="Claude" />
+<img src="https://cdn.simpleicons.org/githubcopilot/0066FF" alt="GitHub Copilot" width="42" title="GitHub Copilot" />
+<img src="https://cdn.simpleicons.org/cursor/7020FF" alt="Cursor" width="42" title="Cursor" />
+<img src="https://cdn.simpleicons.org/googlegemini/F000FF" alt="Gemini" width="42" title="Gemini" />
+<img src="https://cdn.simpleicons.org/ollama/00E5FF" alt="Ollama" width="42" title="Ollama" />
+<img src="https://cdn.simpleicons.org/perplexity/0066FF" alt="Perplexity" width="42" title="Perplexity" />
+<img src="https://cdn.simpleicons.org/mistralai/7020FF" alt="Mistral AI" width="42" title="Mistral AI" />
+<img src="https://cdn.simpleicons.org/deepseek/F000FF" alt="DeepSeek" width="42" title="DeepSeek" />
+<img src="https://cdn.simpleicons.org/huggingface/00E5FF" alt="Hugging Face" width="42" title="Hugging Face" />
+<img src="https://cdn.simpleicons.org/langchain/0066FF" alt="LangChain" width="42" title="LangChain" />
+<img src="https://cdn.simpleicons.org/windsurf/7020FF" alt="Windsurf" width="42" title="Windsurf" />
+<img src="https://cdn.simpleicons.org/v0/F000FF" alt="v0" width="42" title="v0" />
+</p>
 
 <br><br>
 
