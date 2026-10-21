@@ -55,7 +55,7 @@
 <div align="center">
 
 | | |
-|:---:|:---:|
+| :---: | :---: |
 | 👤 **Name** | jefimdev |
 | 📍 **Location** | Brazil 🇧🇷 |
 | 💻 **OS** | Windows |
@@ -104,7 +104,7 @@ A developer focused on **JavaScript** and **Node.js**, building Discord bots, AP
 <br><br>
 
 | Area | Stack |
-|:---:|:---|
+| :---: | :---: |
 | **Front-end** | HTML5, CSS3, JavaScript, TypeScript |
 | **Back-end** | Node.js, Express, REST APIs |
 | **Bots & Scripts** | Discord.js, Python, Automation |
@@ -142,7 +142,7 @@ In practice it is a six-step loop that runs on every single project:
 </div>
 
 | # | Step | What happens |
-|:---:|:---:|:---|
+| :---: | :---: | :---: |
 | 1 | 💡 **Ideate** | I define the problem and what "done" means |
 | 2 | 📐 **Contextualise** | I share the stack, constraints and project conventions |
 | 3 | 🤖 **Generate** | The AI produces the first draft of the solution |
@@ -155,7 +155,7 @@ In practice it is a six-step loop that runs on every single project:
 <div align="center">
 
 | Principle | In practice |
-|:---:|:---|
+| :---: | :---: |
 | 🧠 **Context first** | A vague prompt produces generic code — I describe the whole project |
 | 🔐 **Security always** | Auth, user input, secrets and dependencies get a manual review |
 | 🧩 **Small steps** | One feature at a time, validated — never the whole system at once |
@@ -240,7 +240,7 @@ In practice it is a six-step loop that runs on every single project:
 <div align="center">
 
 | Status | Goal |
-|:---:|:---|
+| :---: | :---: |
 | ✅ | Consolidate my foundations in **JavaScript** and **Node.js** |
 | ✅ | Ship and maintain **Discord bots** |
 | 🔄 | Go deeper into **backend** and API architecture |
