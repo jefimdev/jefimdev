@@ -139,8 +139,6 @@ I describe *what* I want, the AI generates *how*, and I keep the hard part —
 
 In practice it is a six-step loop that runs on every single project:
 
-</div>
-
 | # | Step | What happens |
 | :---: | :---: | :---: |
 | 1 | 💡 **Ideate** | I define the problem and what "done" means |
@@ -151,6 +149,8 @@ In practice it is a six-step loop that runs on every single project:
 | 6 | 📝 **Document** | I explain the *why* behind the decisions in the commit |
 
 <br>
+
+</div>
 
 <div align="center">
 
