@@ -1,43 +1,48 @@
 <!-- ============================================================= -->
-<!--  README PROFILE — jefimdev                                  -->
-<!--  <img src="https://github.com/jefimdev.png" width="120">     -->
+<!--  PROFILE README — jefimdev                                   -->
+<!--  Palette matches the profile picture:                       -->
+<!--    Cyan #00E5FF · Electric Blue #0066FF                      -->
+<!--    Purple #7020FF · Magenta #F000FF                         -->
+<!--  Every block is centred via the legacy align="center"       -->
+<!--  attribute (maps to -webkit-center, which centres block     -->
+<!--  children such as tables too — unlike text-align:center).   -->
 <!-- ============================================================= -->
 
 <div align="center">
 
   <!-- ===================== HEADER ===================== -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,35:0066FF,70:7020FF,100:F000FF&height=200&section=header&text=jefimdev&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=JavaScript%20%7C%20Node.js%20%7C%20Bots%20para%20Discord&descAlignY=60&descSize=14" alt="jefimdev" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,35:0066FF,70:7020FF,100:F000FF&height=200&section=header&text=jefimdev&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=JavaScript%20%7C%20Node.js%20%7C%20Discord%20Bots&descAlignY=60&descSize=14" alt="jefimdev" />
 
   <br>
 
   <!-- ===================== AVATAR ===================== -->
-  <img src="https://github.com/jefimdev.png?size=140" alt="Avatar do jefimdev" width="140" style="border-radius:50%;border:3px solid #0066FF;box-shadow:0 0 25px rgba(112,32,255,.55);" />
+  <img src="https://github.com/jefimdev.png?size=140" alt="Avatar of jefimdev" width="140" style="border-radius:50%;border:3px solid #0066FF;box-shadow:0 0 25px rgba(112,32,255,.55);" />
 
   <br><br>
 
   <!-- ===================== TYPING ===================== -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&background=0D1117&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C%20eu%20sou%20o%20jefimdev%20%F0%9F%91%8B;Desenvolvedor%20JavaScript%20%26%20Node.js;Bots%20para%20Discord%20%C2%B7%20APIs%20%C2%B7%20Automa%C3%A7%C3%A3o;Vibe%20coder%20%F0%9F%A4%96%20%E2%80%94%20construindo%20com%20IA%20no%20fluxo%20de%20trabalho" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&background=0D1117&center=true&vCenter=true&width=650&lines=Hi%2C%20I%27m%20jefimdev%20%F0%9F%91%8B;JavaScript%20%26%20Node.js%20Developer;Discord%20Bots%20%C2%B7%20APIs%20%C2%B7%20Automation;Vibe%20coder%20%F0%9F%A4%96%20%E2%80%94%20building%20with%20AI%20in%20my%20workflow" alt="Typing SVG" />
 
   <br><br>
 
   <!-- ===================== BADGES ===================== -->
   <img src="https://img.shields.io/github/followers/jefimdev?label=Followers&style=for-the-badge&color=0066FF&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/stars/jefimdev?label=Stars&style=for-the-badge&color=F000FF&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/badge/Desde%202022-0066FF?style=for-the-badge" alt="Desde 2022" />
-  <img src="https://img.shields.io/github/last-commit/jefimdev/jefimdev?label=%C3%BAltimo%20Commit&style=for-the-badge&color=7020FF&logo=github" alt="Último commit" />
+  <img src="https://img.shields.io/badge/Since%202022-0066FF?style=for-the-badge" alt="Since 2022" />
+  <img src="https://img.shields.io/github/last-commit/jefimdev/jefimdev?label=Last%20Commit&style=for-the-badge&color=7020FF&logo=github" alt="Last commit" />
   <img src="https://img.shields.io/badge/Vibe%20Coder-00E5FF?style=for-the-badge&logo=claude&logoColor=black" alt="Vibe Coder" />
-  <img src="https://img.shields.io/badge/Plataforma-Windows-7020FF?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Localizado-Brasil-F000FF?style=for-the-badge&logo=github&logoColor=white" alt="Brasil" />
+  <img src="https://img.shields.io/badge/Platform-Windows-7020FF?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Location-Brazil-F000FF?style=for-the-badge&logo=github&logoColor=white" alt="Brazil" />
 
   <br><br>
 
   <!-- ===================== NAV ===================== -->
-  <a href="#sobre-mim">Sobre</a> •
-  <a href="#stack--ferramentas">Stack</a> •
+  <a href="#about-me">About</a> •
+  <a href="#stack--tools">Stack</a> •
   <a href="#vibecoding">Vibecoding</a> •
   <a href="#github-stats">Stats</a> •
-  <a href="#projetos">Projetos</a> •
-  <a href="#contato">Contato</a>
+  <a href="#projects">Projects</a> •
+  <a href="#contact">Contact</a>
 
 </div>
 
@@ -45,64 +50,68 @@
 
 ---
 
-<h2 align="center">🧑 Sobre mim</h2>
+<h2 align="center">👋 About Me</h2>
 
 <div align="center">
 
 | | |
-|:--|:--|
-| 👤 **Nome** | jefimdev |
-| 📍 **Localização** | Brasil 🇧🇷 |
-| 💻 **Sistema** | Windows |
-| 🌐 **Foco** | JavaScript · Node.js · Web Development · APIs · Automação |
-| 🎯 **Área** | Bots para Discord e desenvolvimento backend |
-| 🌱 **Aprendendo** | Backend, Banco de Dados, Deploy e GitHub |
-| ⚡ **Frase** | *"Fazendo coisas interessantes — ou até as inúteis."* |
+|:---:|:---:|
+| 👤 **Name** | jefimdev |
+| 📍 **Location** | Brazil 🇧🇷 |
+| 💻 **OS** | Windows |
+| 🌐 **Focus** | JavaScript · Node.js · Web Development · APIs · Automation |
+| 🎯 **Area** | Discord bots and backend development |
+| 🌱 **Learning** | Backend, Databases, Deployment, GitHub |
+| ⚡ **Motto** | *"Building interesting things — or even pointless ones."* |
+
+<br>
+
+Hi! I'm **jefimdev** 👋
+
+A developer focused on **JavaScript** and **Node.js**, building Discord bots, APIs and automations that solve real problems. I like turning an idea into something that works, measuring the result and refining the code — sometimes even when the result is "just" a useless but fun bot.
+
+<br>
+
+<p align="center">
+• 🔭 <b>Building</b> my own automation and Discord bot projects<br>
+• 🌱 <b>Learning</b> continuously about backend, databases and deployment<br>
+• 💬 Always up for a chat about JavaScript, Node.js and web development<br>
+• ⚡ Big fan of clean, well documented and easy to maintain code<br>
+• 🚀 VS Code, Git and the terminal every single day<br>
+• 🤖 <b>Vibe coder</b> — I use AI as a writing partner to iterate faster, but I review, test and refine every single line before committing
+</p>
 
 </div>
 
 <br>
 
-Olá! Eu sou o **jefimdev** 👋
-
-Desenvolvedor focado em **JavaScript** e **Node.js**, criando bots para Discord, APIs e automações que resolvem problemas reais. Gosto de transformar uma ideia em algo funcional, medir o resultado e melhorar o código — às vezes até quando o resultado é "só" um bot inútil, mas divertido.
-
-- 🔭 Construindo projetos próprios de automação e bots
-- 🌱 Aprendendo continuamente sobre backend, bancos de dados e deploy
-- 💬 Adoro trocar ideias sobre JavaScript, Node.js e desenvolvimento web
-- ⚡ Fã de código limpo, documentado e fácil de manter
-- 🚀 VS Code, Git e terminal no dia a dia
-- 🤖 **Vibe coder** — uso IA como parceira de escrita para iterar mais rápido, mas **reviso, testo e refino cada linha** antes de commitar
-
-<br>
-
 ---
 
-<h2 align="center">🛠️ Stack & Ferramentas</h2>
+<h2 align="center">🛠️ Stack &amp; Tools</h2>
 
 <div align="center">
 
-### Linguagens
+### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,sql,bash" alt="Linguagens" />
-
-<br><br>
-
-### Ferramentas & Tecnologias
-
-<img src="https://skillicons.dev/icons?i=github,git,vscode,discord,docker,linux,figma,postgres,mongodb,express,api,vercel" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,sql,bash" alt="Languages" />
 
 <br><br>
 
-| Área | Ferramentas |
-|:--|:--|
+### Tools &amp; Technologies
+
+<img src="https://skillicons.dev/icons?i=github,git,vscode,discord,docker,linux,figma,postgres,mongodb,express,api,vercel" alt="Tools" />
+
+<br><br>
+
+| Area | Stack |
+|:---:|:---|
 | **Front-end** | HTML5, CSS3, JavaScript, TypeScript |
-| **Back-end** | Node.js, Express, APIs REST |
-| **Bots & Scripts** | Discord.js, Python, Automação |
-| **Banco de Dados** | SQL / PostgreSQL, MongoDB |
-| **IA & Vibecoding** | Claude Code, ChatGPT, Cursor, Copilot, Gemini, Ollama |
-| **Infra & Versionamento** | Git, GitHub, Docker, Deploy, Vercel |
-| **Ambiente** | Windows, VS Code, Linux (terminal) |
+| **Back-end** | Node.js, Express, REST APIs |
+| **Bots & Scripts** | Discord.js, Python, Automation |
+| **Databases** | SQL / PostgreSQL, MongoDB |
+| **AI & Vibecoding** | Claude Code, ChatGPT, Cursor, Copilot, Gemini, Ollama |
+| **Infra & Versioning** | Git, GitHub, Docker, Deployment, Vercel |
+| **Environment** | Windows, VS Code, Linux (terminal) |
 
 </div>
 
@@ -114,46 +123,48 @@ Desenvolvedor focado em **JavaScript** e **Node.js**, criando bots para Discord,
 
 <div align="center">
 
-### Ferramentas de IA no fluxo de trabalho
+### AI in my workflow
 
-<img src="https://skillicons.dev/icons?i=chatgpt,claude,copilot,cursor,gemini,openai,ollama,vscode" alt="Ferramentas de IA" />
+<img src="https://skillicons.dev/icons?i=chatgpt,claude,copilot,cursor,gemini,openai,ollama,vscode" alt="AI tools" />
 
 <br><br>
 
-### O que é
+</div>
 
-**Vibe coding** é programar guiado por intenção em vez de instruções linha a linha:
-eu descrevo o *o que* quero, a IA gera o *como*, e eu fico com a parte difícil —
-**decidir a arquitetura, revisar o código e garantir que funciona**.
+<div align="center">
 
-Na prática, é um ciclo de 6 passos que roda comigo em todo projeto:
+**Vibe coding** means programming driven by intent instead of line-by-line instructions:
+I describe *what* I want, the AI generates *how*, and I keep the hard part —
+**deciding the architecture, reviewing the code and making sure it actually works**.
+
+In practice it is a six-step loop that runs on every single project:
 
 </div>
 
-| # | Etapa | O que acontece |
-|:--|:--|:--|
-| 1 | 💡 **Idear** | Defino o problema e o que "pronto" significa |
-| 2 | 📐 **Contextualizar** | Passo stack, restrições e convenções do projeto |
-| 3 | 🤖 **Gerar** | A IA produz o primeiro rascunho da solução |
-| 4 | 🔍 **Revisar** | Leio tudo: lógica, segurança, edge cases, legibilidade |
-| 5 | 🧪 **Validar** | Testo, rodo o lint e corrijo o que quebrou |
-| 6 | 📝 **Documentar** | Explico o *porquê* das decisões no commit |
+| # | Step | What happens |
+|:---:|:---:|:---|
+| 1 | 💡 **Ideate** | I define the problem and what "done" means |
+| 2 | 📐 **Contextualise** | I share the stack, constraints and project conventions |
+| 3 | 🤖 **Generate** | The AI produces the first draft of the solution |
+| 4 | 🔍 **Review** | I read everything: logic, security, edge cases, readability |
+| 5 | 🧪 **Validate** | I test, run the linter and fix whatever broke |
+| 6 | 📝 **Document** | I explain the *why* behind the decisions in the commit |
 
 <br>
 
 <div align="center">
 
-| Princípio | Na prática |
-|:--|:--|
-| 🧠 **Contexto primeiro** | Prompt vago gera código genérico — eu descrevo o projeto inteiro |
-| 🔐 **Segurança sempre** | Reviso auth, input do usuário, secrets e dependências manualmente |
-| 🧩 **Pequenos passos** | Peço uma funcionalidade por vez, valido e sigo — nunca o sistema inteiro de uma vez |
-| 📖 **Eu sou o autor** | A IA propõe, eu assumo a responsabilidade pelo que vai pro repo |
-| 📚 **Aprendizado contínuo** | Cada padrão gerado que eu não conhecia vira estudo e vira conceito meu |
+| Principle | In practice |
+|:---:|:---|
+| 🧠 **Context first** | A vague prompt produces generic code — I describe the whole project |
+| 🔐 **Security always** | Auth, user input, secrets and dependencies get a manual review |
+| 🧩 **Small steps** | One feature at a time, validated — never the whole system at once |
+| 📖 **I am the author** | The AI proposes, I own what lands in the repository |
+| 📚 **Continuous learning** | Every generated pattern I did not know becomes study, then my own concept |
 
 <br>
 
-> *"A IA é o copiloto, não o piloto. Eu assumo o teclado quando o código precisa ficar certo."*
+> *"The AI is the copilot, not the pilot. I take the keyboard back when the code has to be right."*
 
 </div>
 
@@ -165,7 +176,7 @@ Na prática, é um ciclo de 6 passos que roda comigo em todo projeto:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jefimdev&show_icons=true&title_color=00E5FF&text_color=F0F6FC&icon_color=0066FF&bg_color=0D1117&border_color=7020FF&ring_color=0066FF&include_all_commits=true&count_private=true&rank_icon=github" alt="Jefimdev's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=jefimdev&show_icons=true&title_color=00E5FF&text_color=F0F6FC&icon_color=0066FF&bg_color=0D1117&border_color=7020FF&ring_color=0066FF&include_all_commits=true&count_private=true&rank_icon=github" alt="jefimdev's GitHub Stats" />
 
 <br><br>
 
@@ -185,20 +196,11 @@ Na prática, é um ciclo de 6 passos que roda comigo em todo projeto:
 
 ---
 
-<h2 align="center">🏅 Meu Perfil no GitHub</h2>
+<h2 align="center">🏅 My GitHub Profile</h2>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jefimdev&bg_color=0D1117&title_color=00E5FF&text_color=F0F6FC&icon_color=0066FF&border_color=7020FF" alt="Perfil do jefimdev no GitHub" />
-
-<br><br>
-
-<!--
-  TROFÉUS — o serviço github-profile-trophy está temporariamente fora do ar
-  (deployment desativado). Reative descomentando o bloco abaixo quando voltar:
-
-  <img src="https://github-profile-trophy.vercel.app/?username=jefimdev&theme=dark&no-frame=true&column=7&margin-w=4&margin-h=4" alt="Troféus" />
--->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jefimdev&bg_color=0D1117&title_color=00E5FF&text_color=F0F6FC&icon_color=0066FF&border_color=7020FF" alt="jefimdev's GitHub profile" />
 
 </div>
 
@@ -206,7 +208,7 @@ Na prática, é um ciclo de 6 passos que roda comigo em todo projeto:
 
 ---
 
-<h2 align="center">🚀 Projetos</h2>
+<h2 align="center">🚀 Projects</h2>
 
 <div align="center">
 
@@ -216,15 +218,16 @@ Na prática, é um ciclo de 6 passos que roda comigo em todo projeto:
 
 <br><br>
 
-### 📌 Em destaque
-
-- **jefimdev** — Repositório de configuração do meu perfil no GitHub (onde você está lendo isso).
-- **Bot de Discord em JavaScript** — projeto de automação e registro com Node.js.
-- **Projetos em Python** — scripts de automação e integração com a API do Discord.
+<p align="center">
+📌 <b>Featured</b><br><br>
+<b>jefimdev</b> — configuration files for my GitHub profile (where you are reading this).<br>
+<b>Discord bot in JavaScript</b> — automation and registration workflow built with Node.js.<br>
+<b>Python projects</b> — automation scripts and Discord API integrations.
+</p>
 
 <br>
 
-📂 [Ver todos os repositórios](https://github.com/jefimdev?tab=repositories)
+📂 <a href="https://github.com/jefimdev?tab=repositories">Browse all repositories</a>
 
 </div>
 
@@ -232,18 +235,18 @@ Na prática, é um ciclo de 6 passos que roda comigo em todo projeto:
 
 ---
 
-<h2 align="center">🌱 Roadmap de Aprendizado</h2>
+<h2 align="center">🌱 Learning Roadmap</h2>
 
 <div align="center">
 
-| Status | Objetivo |
-|:--|:--|
-| ✅ | Consolidar base em **JavaScript** e **Node.js** |
-| ✅ | Publicar e manter **bots para Discord** |
-| 🔄 | Aprofundar em **backend** e arquitetura de APIs |
-| 🔄 | Praticar **SQL** e modelagem de dados |
-| ⏳ | Aprender **deploy** e orquestração com **Docker** |
-| ⏳ | Contribuir com **open source** |
+| Status | Goal |
+|:---:|:---|
+| ✅ | Consolidate my foundations in **JavaScript** and **Node.js** |
+| ✅ | Ship and maintain **Discord bots** |
+| 🔄 | Go deeper into **backend** and API architecture |
+| 🔄 | Practise **SQL** and data modelling |
+| ⏳ | Learn **deployment** and orchestration with **Docker** |
+| ⏳ | Contribute to **open source** |
 
 </div>
 
@@ -251,11 +254,11 @@ Na prática, é um ciclo de 6 passos que roda comigo em todo projeto:
 
 ---
 
-<h2 align="center">📫 Contato</h2>
+<h2 align="center">📫 Contact</h2>
 
 <div align="center">
 
-<!-- TROQUE PELOS SEUS DADOS REAIS -->
+<!-- REPLACE WITH YOUR OWN DETAILS -->
 
 <a href="https://github.com/jefimdev">
   <img src="https://img.shields.io/badge/GitHub-jefimdev-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -266,12 +269,12 @@ Na prática, é um ciclo de 6 passos que roda comigo em todo projeto:
 </a>
 
 <a href="mailto:SEU_EMAIL@EMAIL.COM">
-  <img src="https://img.shields.io/badge/Email-SEU_EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" alt="E-mail" />
+  <img src="https://img.shields.io/badge/Email-SEU_EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
 </a>
 
 <br><br>
 
-Encontrou algum bug ou tem uma ideia? **Abra uma issue** — Contributions são sempre bem-vindas! 🤝
+Found a bug or have an idea? **Open an issue** — contributions are always welcome! 🤝
 
 </div>
 
@@ -293,46 +296,51 @@ Encontrou algum bug ou tem uma ideia? **Abra uma issue** — Contributions são 
 
 <div align="center">
 
-**Feito com ☕ por [jefimdev](https://github.com/jefimdev)**
+**Made with ☕ by [jefimdev](https://github.com/jefimdev)**
 
-<sub>Se este README te inspirou, deixa uma ⭐ no repositório!</sub>
+<sub>If this README inspired you, leave a ⭐ on the repository!</sub>
 
 </div>
 
 <!--
 =============================================================
-NOTAS PARA MANUTENÇÃO
+MAINTENANCE NOTES
 -------------------------------------------------------------
-• Substitua SEU_ID (Discord) e SEU_EMAIL na seção "📫 Contato".
-• O Contribution Snake exige o workflow em
-  .github/workflows/snake.yml — use o modelo oficial:
+• Replace SEU_ID (Discord) and SEU_EMAIL in the "📫 Contact"
+  section.
+• The Contribution Snake requires the workflow at
+  .github/workflows/snake.yml — use the official template:
   https://github.com/Platane/snk
 
-PALETA (mesma da foto de perfil):
-  Ciano #00E5FF · Azul elétrico #0066FF
-  Roxo #7020FF · Magenta #F000FF
-  Fundo dos cards #0D1117 · Texto #F0F6FC
+PALETTE (same as the profile picture):
+  Cyan #00E5FF · Electric Blue #0066FF
+  Purple #7020FF · Magenta #F000FF
+  Card background #0D1117 · Card text #F0F6FC
 
 • Banner: type=rect + color=0:00E5FF,35:0066FF,70:7020FF,100:F000FF
-  (type=rect preenche em opacidade total; type=waving usaria 0.4 e
-  ficaria lavado no fundo branco do GitHub). Texto branco.
+  (type=rect fills at full opacity; type=waving uses 0.4 and
+  gets washed out on GitHub's white background). White text.
 • Cards: title_color=00E5FF · text_color=F0F6FC · icon_color=0066FF
   · bg_color=0D1117 · border_color=7020FF
 • Activity graph: line=0066FF · point=00E5FF · area_color=7020FF
   · bg_color=0D1117 · color=7020FF
-  (atenção: "color" é a moldura, o fundo é "bg_color")
-• Os títulos usam <h2 align="center"> para centralizar; as
-  âncoras do menu (#sobre-mim, #stack--ferramentas,
-  #vibecoding, #github-stats, #projetos, #contato) seguem o
-  padrão do GitHub. Se alguma não funcionar, ajuste manualmente.
-• A seção "✨ Vibecoding" descreve o método de trabalho;
-  ajuste as ferramentas listadas conforme seu uso real.
+  (careful: "color" is the frame, the background is "bg_color")
+• Centring: the legacy align="center" attribute maps to
+  -webkit-center in Chrome, which centres block children
+  (tables) as well — plain text-align:center does not.
+  Markdown pipe tables are rendered by GitHub with a hard-coded
+  align="left" on every cell, so they need the :---: syntax
+  to centre their content.
+• The headings use <h2 align="center"> so that the menu anchors
+  (#about-me, #stack--tools, #vibecoding, #github-stats,
+  #projects, #contact) follow GitHub's slug rules.
 
-BADGES REMOVIDOS (endpoint descontinuado no shields.io):
+BADGES REMOVED (endpoint discontinued on shields.io):
   github/repos, github/created-at, github/commit-activity,
-  github/languages/top (sem repo) e github/last-commit (sem
-  repo) devolvem o SVG "404: badge not found" com HTTP 200 —
-  o que faz a checagem por status code passar enganada.
-  Os que restam: followers, stars, last-commit/:user/:repo.
+  github/languages/top (without a repo) and github/last-commit
+  (without a repo) all return the "404: badge not found" SVG
+  with an HTTP 200 — which makes a status-code-only check pass
+  by mistake. The ones that still work: followers, stars,
+  last-commit/:user/:repo.
 =============================================================
 -->
